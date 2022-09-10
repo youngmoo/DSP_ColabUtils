@@ -1,2 +1,3 @@
 # DSP_ColabUtils
-Examples of DSP helper utilities in Google Colab notebooks
+This is an ongoing collection of DSP helper utilities in Google Colab notebooks.
+* Each is presented as a separate notebook with 1 "function"
